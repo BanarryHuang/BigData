@@ -8,4 +8,4 @@ HW3 Practicing Spark programming on the Hadoop platform
 
 HW4 Analyzing the Airline Dataset by using Spark MLlib
     Build a predictive framework for predicting whether each flight in 2005 will delay or not 
-    by using the data from 2003 to 2004 as training data.
+    by using the data from 2003 to 2004 as training data. 
